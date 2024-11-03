@@ -3,9 +3,9 @@
 <br>
 <b>Features:</b>
 <br>
-  • Basic Arithmetic: Addition, subtraction, multiplication, and division.
-  • Trigonometric Functions: Sine, cosine, tangent, and their inverses, allowing for calculations in both degrees and radians.
-  • Exponential and Logarithmic Functions: Calculate powers, roots, and logarithms with ease.
-  • Statistical Functions: Mean, median, mode, standard deviation, and combinations/permutations for statistical analysis.
-  • Memory Functions: Store and recall values for convenience during multi-step calculations.
-  • Parentheses Support: Use parentheses to structure complex equations accurately.
+  • Basic Arithmetic: Addition, subtraction, multiplication, and division.<br>
+  • Trigonometric Functions: Sine, cosine, tangent, and their inverses, allowing for calculations in both degrees and radians.<br>
+  • Exponential and Logarithmic Functions: Calculate powers, roots, and logarithms with ease.<br>
+  • Statistical Functions: Mean, median, mode, standard deviation, and combinations/permutations for statistical analysis.<br>
+  • Memory Functions: Store and recall values for convenience during multi-step calculations.<br>
+  • Parentheses Support: Use parentheses to structure complex equations accurately.<br>
